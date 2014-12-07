@@ -2,6 +2,6 @@ Hello-world
 ===========
 
 This is my first repository.
-
-I am [nickman]. I like ...
-[nickman]:  http://www.baidu.com  "baidu search"
+I am nickman. I like using [baidu] more than [google].
+[baidu]:  http://www.baidu.com  "baidu search"
+[google]:   http://www.google.com   "google search"
